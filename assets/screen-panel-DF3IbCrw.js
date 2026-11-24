@@ -1,4 +1,4 @@
-import{b as w,a as F,_ as V}from"./Environment-Cj3_o2Mf.js";import{r,W as P,b6 as H,o as L,aT as X,x as q,S as R}from"./index-C-U0FedS.js";const J={uniforms:{tDiffuse:{value:null},h:{value:1/512}},vertexShader:`
+import{b as w,a as F,_ as V}from"./Environment-Cag5II3g.js";import{r,W as P,b6 as H,o as L,aT as X,x as q,S as R}from"./index-DjwJSzC7.js";const J={uniforms:{tDiffuse:{value:null},h:{value:1/512}},vertexShader:`
       varying vec2 vUv;
 
       void main() {
